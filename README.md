@@ -1,6 +1,6 @@
 ### Oi, eu sou o Alexandre! 👋
 - 🔭 Hoje trabalho com Front / Back-end
-- 🌱 Estudando: Python, PHP, WordPress, C#
+- 🌱 Estudando: Python, PHP, WordPress
 
 ##
 
